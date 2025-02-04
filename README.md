@@ -57,17 +57,17 @@ bun run dev
 ## 📸 Output
 
 ### 🔍 Home
-![S1](https://raw.githubusercontent.com/GamerBhushan/Movie-Search-App-React/refs/heads/main/public/images/ss/s1.png)
+![S1](https://raw.githubusercontent.com/GamerBhushan/Movie-Search-App-React/refs/heads/Bhushan/public/images/ss/s1.png)
 
 ### 🎥 Search For Movie  
-![S2](https://raw.githubusercontent.com/GamerBhushan/Movie-Search-App-React/refs/heads/main/public/images/ss/s2.png)
+![S2](https://raw.githubusercontent.com/GamerBhushan/Movie-Search-App-React/refs/heads/Bhushan/public/images/ss/s2.png)
 
-![S3](https://raw.githubusercontent.com/GamerBhushan/Movie-Search-App-React/refs/heads/main/public/images/ss/s3.png)
+![S3](https://raw.githubusercontent.com/GamerBhushan/Movie-Search-App-React/refs/heads/Bhushan/public/images/ss/s3.png)
 
-![S4](https://raw.githubusercontent.com/GamerBhushan/Movie-Search-App-React/refs/heads/main/public/images/ss/s4.png)
+![S4](https://raw.githubusercontent.com/GamerBhushan/Movie-Search-App-React/refs/heads/Bhushan/public/images/ss/s4.png)
 
 ### 📄 About Page
-![S5](https://raw.githubusercontent.com/GamerBhushan/Movie-Search-App-React/refs/heads/main/public/images/ss/s5.png)
+![S5](https://raw.githubusercontent.com/GamerBhushan/Movie-Search-App-React/refs/heads/Bhushan/public/images/ss/s5.png)
 
 ---
 
