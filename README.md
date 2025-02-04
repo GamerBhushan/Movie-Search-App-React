@@ -72,7 +72,7 @@ bun run dev
 ---
 
 ## 🐟 License
-This project is **open-source** and available under the [MIT License](https://raw.githubusercontent.com/GamerBhushan/Movie-Search-App-React/refs/heads/main/LICENSE).
+This project is **open-source** and available under the [MIT License](https://raw.githubusercontent.com/GamerBhushan/Movie-Search-App-React/refs/heads/Bhushan/LICENSE).
 
 ---
 
