@@ -1,0 +1,39 @@
+.movie-card {
+    display: flex;
+    /* max-width: 600px; */
+    margin: 20px auto;
+    align-self: center center;
+    justify-self: center center;
+    background: #1e1e1e;
+    color: #ffffff;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+  .poster {
+    width: 40%;
+    object-fit: cover;
+  }
+  
+  .content {
+    padding: 15px;
+    width: 60%;
+  }
+  
+  .title {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+  }
+  
+  .genre, .plot, .director, .writer, .actors, .rating, .awards {
+    font-size: 0.9rem;
+    margin-bottom: 5px;
+  }
+  
+  .error {
+    text-align: center;
+    color: red;
+    font-size: 1.2rem;
+  }
+  
