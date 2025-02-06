@@ -5,6 +5,12 @@ A fast and seamless **Movie Search App** built with **React, Vite & TypeScript**
 
 ---
 
+## TASK 2
+
+![TASK 2](https://raw.githubusercontent.com/GamerBhushan/Movie-Search-App-React/refs/heads/Bhushan/public/images/ss/Task_2.png)
+
+---
+
 ## 🚀 Features
 
 - 🎬 Search for movies in real-time.
